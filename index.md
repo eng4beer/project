@@ -13,7 +13,9 @@ The problem statement is simple, there is no good place to get stuff that actual
 
 ### Why is your site so poorly written
 
-It's because we don't really care about websites, we are about infrastructre as code. Most of the cool stuff is in our github repo [Eng4Beer Github](https://github.com/eng4beer)
+It's because we don't really care about websites, we are about infrastructre as code. 
+
+Most of the cool stuff is in our github repo [Eng4Beer Github](https://github.com/eng4beer)
 
 ### Is everything going to be so cynical
 
