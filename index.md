@@ -21,7 +21,7 @@ Most of the cool stuff is in our github repo [Eng4Beer Github](https://github.co
 
 Yes
 
-### When is there going to be something packages on here that is actually useful. 
+### When is there going to be something on here that is actually useful. 
 
 When we get around to it. 
 
