@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Engineer for Beer
 
-You can use the [editor on GitHub](https://github.com/eng4beer/project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+So what in the actual heck is Engineer for Beer?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The answer is simple. This is a community for infrastructure engineers to collaborate and do cool stuff!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why do you need this
 
-```markdown
-Syntax highlighted code block
+If you don't already know, then its likely you wouldn't understand. 
 
-# Header 1
-## Header 2
-### Header 3
+The problem statement is simple, there is no good place to get stuff that actually works. Engineer for Beer is a simple place with simple goals. We take all the hard stuff, work it all out for you, and then post it on the interwebs for you to download. 
 
-- Bulleted
-- List
+### Why is your site so poorly written
 
-1. Numbered
-2. List
+It's because we don't really care about websites, we are about infrastructre as code. Most of the cool stuff is in our github repo [Eng4Beer Github](https://github.com/eng4beer)
 
-**Bold** and _Italic_ and `Code` text
+### Is everything going to be so cynical
 
-[Link](url) and ![Image](src)
-```
+Yes
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### When is there going to be something packages on here that is actually useful. 
 
-### Jekyll Themes
+When we get around to it. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eng4beer/project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Thanks a bunch for stopping by
